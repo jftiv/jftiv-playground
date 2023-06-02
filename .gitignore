@@ -1,1 +1,5 @@
+# ignore dependencies
 node_modules
+
+# ignore local configs
+pg.config.js
